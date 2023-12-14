@@ -10,7 +10,7 @@
 
  To Play The Game 
 
- DownLoad "Get File" download zip 
+ Click On The Green Code Button & Download The .ZIP file
 
  Unzip the file and put it where you can access it easy aka Desktop. 
 
