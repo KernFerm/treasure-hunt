@@ -16,5 +16,10 @@
 
  Right Click On Windows Batch File ,
  Run Batch File as an Admin 
+ if it says computer might be as risk 
+
+ click more information 
+ then run anyway 
+ this batch file is 100% safe & virus free
 
  Enjoy!!!
