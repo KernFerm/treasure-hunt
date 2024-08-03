@@ -8,7 +8,7 @@
 
 ## Welcome
 
-Find The Treause Behind The Door created by kernferm
+Find The Treasure Behind The Door created by kernferm
 
 made in notepad , works as a `.bat`
 
